@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="1606"
-   height="94"
-   viewBox="0 0 1606 94"
+   width="400"
+   height="33.299999"
+   viewBox="0 0 400 33.299999"
    version="1.1"
    id="svg5"
    sodipodi:docname="isaf_title.svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.1535615"
-     inkscape:cx="337.21652"
-     inkscape:cy="89.722134"
+     inkscape:zoom="3.2627646"
+     inkscape:cx="159.83378"
+     inkscape:cy="7.815458"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -34,13 +34,14 @@
      inkscape:current-layer="svg5" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95px;font-family:monospace;-inkscape-font-specification:monospace;fill:#fefefe;fill-opacity:1;stroke:#111520;stroke-width:1.88976;stroke-dasharray:none;stroke-opacity:1"
-     x="32.794922"
-     y="76.038086"
-     id="text1094"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.6555px;font-family:monospace;-inkscape-font-specification:monospace;fill:#ffffff;fill-opacity:1;stroke:#111520;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+     x="22.308231"
+     y="23.861101"
+     id="text1094"
+     transform="scale(1.0539013,0.94885546)"><tspan
        sodipodi:role="line"
-       x="32.794922"
-       y="76.038086"
+       x="22.308231"
+       y="23.861101"
        id="tspan1096"
-       style="font-size:95px;fill:#fefefe;fill-opacity:1;stroke:#111520;stroke-width:1.88976;stroke-dasharray:none;stroke-opacity:1">ISAF TC.SYSTEM VERSION 4.03</tspan></text>
+       style="font-size:20.6555px;fill:#ffffff;fill-opacity:1;stroke:#111520;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1">ISAF TC.SYSTEM VERSION 4.03</tspan></text>
 </svg>
